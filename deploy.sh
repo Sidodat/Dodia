@@ -8,3 +8,8 @@ Today is:
 date
 Work approved
  
+deployment need adjustment
+changes needed in the application
+changes must be effected before deployment
+send mail when the deployment is ready
+Weldone.Thank you
