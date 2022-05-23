@@ -17,3 +17,9 @@ May 2022
 deployment in progress
 deployment5 master 
 deployment4
+deploy to staging
+echo good job 
+task completed
+tested and accepted
+
+
